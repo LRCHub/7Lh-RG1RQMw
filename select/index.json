@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シンクロゲーム",
+  "base_artist": "汐杏",
+  "createdAt": "2026-02-08T07:36:02.802223Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンクロゲーム",
+      "artist": "汐杏",
+      "has_synced": false,
+      "path": "select/pl_01_シンクロゲーム_汐杏.txt"
+    }
+  ]
+}
